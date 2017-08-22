@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/.android/build-cache/7181af9d93fb0d26a2dd1857ec2e35388ca3dbc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/classes_2c770f502b09997027afd6cdab50bcf3f8724fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/.android/build-cache/4546b983fa6fdac39c132c589137e278e36027c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b774f332ce31e16cbcf640849faa0f1a93114f3">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/classes_b6c83dbfb3f5c5c7a65ccc38accfa3a2872b3ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/.android/build-cache/6a7ecfe6e5df30b6d6a8aa1b7d5e914c89fd8b01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/classes_e5a7609b71b294524ffadd3e22022c8354c9cd64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/.android/build-cache/5856b1aaa8f5420f701c08d7beeadf371f1c3ac4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/classes_2b5b5181ef223942df998ff145778c3193ee8e7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/.android/build-cache/73c26d292d8c74fb9ad06db887b0911f8f61c122/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/classes_faf180106ad48884c3e33e2197ee191aaca49354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/.android/build-cache/14e60f73ad8ba56dbb33b6ed40777c01e276cbfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/classes_76f4675ea3194277269ac2916dcc346e3c8513d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/Desktop/Projects/Android/neuroWave/app/libs/ThinkGear.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b4f0f0a355dcc5315e5bef25b775beaa52b2d208">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/ThinkGear_2bdea232b79a0ac1c6c6e31191ebf7e44db31fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/.android/build-cache/5856b1aaa8f5420f701c08d7beeadf371f1c3ac4/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_357f9cc9e59a3597c2c64d34c0b31a6305cf8eb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/Desktop/Projects/Android/neuroWave/app/libs/GraphView-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/GraphView-4.2.1_449cdc6c6f0e7f3241499fea78706f69f961bc24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_fdb202bd3040ad4fa96165248e7c68dcee1c01c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_518907d02fa78fdbd87149760a0ac93137a9077c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raisongran/.android/build-cache/0325bb36f1be7b64908da0ef8ded5c697c0d2ca3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de8046139933d665ec919c8052042ac1c6020a36">
+        <dex dex="/home/raisongran/Desktop/Projects/Android/neuroWave/app/build/intermediates/pre-dexed/debug/classes_0ca7cf71530de705df497b7098c7939c49be1608.jar" />
+    </item>
+
+</items>
